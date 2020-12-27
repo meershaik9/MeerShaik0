@@ -59,7 +59,7 @@ logo = """ -----------------------------•◈•
 \033[1;96mAuthor  MEER
 \033[1;96mInstagram MEERU BALUCH
 \033[1;96mFacebook  MEER SHAIK
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/MeerShaik0/zero
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/MeerShaik0/Meer
 \033[1;91m======================================="""
 
 def tik():
